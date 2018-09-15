@@ -12,8 +12,12 @@ h1 {
 }
 
 p {
-  font-family: "Impact";
+  font-family: "Bookman";
   font-size: 30px;
+}
+
+h2 {
+  font-family: "Bookman";
 }
 
 header {
