@@ -1,14 +1,18 @@
 
 body {
-  background-color: #E6DFDF;
   text-align: center;
 }
 
+.container-fluid {
+  background-color: #FEFEFE;
+}
+
 h1 {
-  font-family: 'Impact', cursive;
+  font-family: "Didot";
   color: #1E1313;
   font-size: 90px;
   padding:30px;
+   font-weight: bold;
 }
 
 p {
@@ -16,6 +20,13 @@ p {
   font-size: 30px;
 }
 
+span {
+  font-size: 25px;
+}
+
+div {
+    background-color: #E6DFDF;
+}
 h2 {
   font-family: "Bookman";
 }
