@@ -1,17 +1,23 @@
 
 body {
-  background-color: #d0e4fe;
+  background-color: #E6DFDF;
   text-align: center;
 }
 
 h1 {
-  font-family: 'Lobster', cursive;
-  color: orange;
+  font-family: 'Impact', cursive;
+  color: #1E1313;
+  font-size: 90px;
+  padding:30px;
 }
 
 p {
-  font-family: "Courier New";
+  font-family: "Impact";
   font-size: 30px;
+}
+
+header {
+  text-align: center;
 }
 
 #doge-image img {
